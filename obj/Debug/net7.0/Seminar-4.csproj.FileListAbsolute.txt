@@ -1,0 +1,15 @@
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar_4\Seminar-4\bin\Debug\net7.0\Seminar-4.exe
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar_4\Seminar-4\bin\Debug\net7.0\Seminar-4.deps.json
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar_4\Seminar-4\bin\Debug\net7.0\Seminar-4.runtimeconfig.json
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar_4\Seminar-4\bin\Debug\net7.0\Seminar-4.dll
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar_4\Seminar-4\bin\Debug\net7.0\Seminar-4.pdb
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar_4\Seminar-4\obj\Debug\net7.0\Seminar-4.csproj.AssemblyReference.cache
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar_4\Seminar-4\obj\Debug\net7.0\Seminar-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar_4\Seminar-4\obj\Debug\net7.0\Seminar-4.AssemblyInfoInputs.cache
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar_4\Seminar-4\obj\Debug\net7.0\Seminar-4.AssemblyInfo.cs
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar_4\Seminar-4\obj\Debug\net7.0\Seminar-4.csproj.CoreCompileInputs.cache
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar_4\Seminar-4\obj\Debug\net7.0\Seminar-4.dll
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar_4\Seminar-4\obj\Debug\net7.0\refint\Seminar-4.dll
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar_4\Seminar-4\obj\Debug\net7.0\Seminar-4.pdb
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar_4\Seminar-4\obj\Debug\net7.0\Seminar-4.genruntimeconfig.cache
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar_4\Seminar-4\obj\Debug\net7.0\ref\Seminar-4.dll
